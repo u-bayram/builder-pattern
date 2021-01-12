@@ -22,6 +22,9 @@ public class Builder {
 
         car = OrderFluentBuilder.startBuild().withCompany(new Company("Wolswagen")).withModel(new Model("Polo")).build();
         System.out.println(car.toString());
+
+        Student student = Student.builder().id(10L).name("Ali").surname("Bak").age(12).build();
+        System.out.println(student.toString());
     }
 
 }
