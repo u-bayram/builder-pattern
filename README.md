@@ -1,5 +1,5 @@
 ## Builder Pattern & Fluent Builder
 
-#### What is Singleton Pattern
+#### What is Builder Pattern & Fluent Builder
 
-Singleton pattern is a creational pattern. 
+Builder Pattern & Fluent Builder
